@@ -4,6 +4,7 @@
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
 </div>
+
 .topnav {
   background-color: #333;
   overflow: hidden;

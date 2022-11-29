@@ -4,6 +4,7 @@
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
 </div>
+---
 
 ![coverimage](coverimage.png)
 # Artist and Venue Matching Site

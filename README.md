@@ -5,12 +5,8 @@
 # Artist and Venue Matching Site
 ## Where musical artists meet musical venues.
 
-To discover more functionality press on the button below
+To discover more functionality press on the link below
 
-<a href="www.wencoder.tech/">
-  <div id="music" class="button">
-    Click me
-  </div>
-</a>
+[Click me](www.wencoder.tech/)
 
 

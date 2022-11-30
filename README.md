@@ -1,7 +1,7 @@
 [Post venue](http://www.wencoder.tech/venues/create)               [Post artist](http://www.wencoder.tech/artists/create)                [Create show](http://www.wencoder.tech/shows/create)
 
 
-![coverimage](https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bXVzaWMlMjBzeW1ib2xzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60)
+![coverimage](coverimage.png)
 # Artist and Venue Matching Site
 ## Where musical artists meet musical venues.
 

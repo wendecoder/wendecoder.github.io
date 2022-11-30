@@ -3,10 +3,14 @@
 
 ![coverimage](coverimage.png)
 # Artist and Venue Matching Site
-# Where musical artists meet musical venues.
+## Where musical artists meet musical venues.
 
 To discover more functionality press on the button below
 
-<a><button name="button" style = "color: red" onclick="https://www.w3schools.com/CPP/cpp_math.asp">`cmath`on w3schools</button></a>
+<a href="www.wencoder.tech/">
+  <div id="music" class="button">
+    Click me
+  </div>
+</a>
 
 

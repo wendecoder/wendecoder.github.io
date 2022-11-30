@@ -3,9 +3,8 @@
   <a href="#news">News</a>
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
-</div>
-
-.topnav {
+ <style>
+ .topnav {
   background-color: #333;
   overflow: hidden;
 }
@@ -31,6 +30,10 @@
   background-color: #04AA6D;
   color: white;
 }
+</style>
+</div>
+
+
 
 ![coverimage](coverimage.png)
 # Artist and Venue Matching Site

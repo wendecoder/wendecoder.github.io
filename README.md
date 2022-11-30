@@ -27,7 +27,7 @@ Initiation for this project come to me, as the music industry is keep growing an
 
 [My linkedin profile](https://www.linkedin.com/in/wendwossen-dufera/)
 [My twitter profile](https://t.co/Co66LTHCnK)
-[My github profile](https://github.com/wendecoder]
+[My github profile](https://github.com/wendecoder)
 
 [Link to the project](https://github.com/wendecoder/Portfolio_project.git)
 

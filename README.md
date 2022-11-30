@@ -7,6 +7,6 @@
 
 To discover more functionality press on the link below
 
-[Click me](www.wencoder.tech/)
+[Click me](http://www.wencoder.tech/)
 
 

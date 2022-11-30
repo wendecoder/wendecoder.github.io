@@ -7,5 +7,6 @@
 
 To discover more functionality press on the button below
 
-[Click me](www.wencoder.tech/){: .btn}
+<button name="button" onclick="http://www.wencoder.tech/">Click me</button>
+
 
